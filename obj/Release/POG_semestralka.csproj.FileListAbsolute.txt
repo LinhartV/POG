@@ -1,0 +1,7 @@
+C:\Users\Vojta Linhart\source\repos\POG_semestralka\bin\Release\POG_semestralka.exe.config
+C:\Users\Vojta Linhart\source\repos\POG_semestralka\bin\Release\POG_semestralka.exe
+C:\Users\Vojta Linhart\source\repos\POG_semestralka\bin\Release\POG_semestralka.pdb
+C:\Users\Vojta Linhart\source\repos\POG_semestralka\obj\Release\POG_semestralka.csproj.AssemblyReference.cache
+C:\Users\Vojta Linhart\source\repos\POG_semestralka\obj\Release\POG_semestralka.csproj.CoreCompileInputs.cache
+C:\Users\Vojta Linhart\source\repos\POG_semestralka\obj\Release\POG_semestralka.exe
+C:\Users\Vojta Linhart\source\repos\POG_semestralka\obj\Release\POG_semestralka.pdb
